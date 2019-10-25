@@ -102,7 +102,7 @@
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
                       <p><span class="title-s">Name: </span> <span>Koyede Ladoye </span></p>
-                      <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
+                      <p><span class="title-s">Profile: </span> <span>Full Stack developer</span></p>
                       <p><span class="title-s">Email: </span> <span>flexwithlado@gmail.com</span></p>
                       <p><span class="title-s">Phone: </span> <span>09033957916</span></p>
                     </div>
@@ -165,6 +165,11 @@
                     <div class="progress-bar" role="progressbar" style="width: 86%" aria-valuenow="86" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
+                  <!-- <span>REST.API</span> <span class="pull-right">86%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 86%" aria-valuenow="86" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div> -->
                 </div>
               </div>
               <div class="col-md-6">
@@ -176,7 +181,7 @@
                   </div>
                   <p class="lead">
                     Wide experience in developing and testing web applications supported across all standard browsers.
-                    Familiar with coding javascript framworks, JQuery Json, HTML, Javascript, CSS, and AJAX.
+                    Familiar with coding javascript framworks, JQuery Json, HTML, Javascript, CSS, AJAX, React, React/Redux and React/ReactNative.
                     
                   </p>
                   <p class="lead">
@@ -363,7 +368,7 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">React Ecommerce Phone-app with Netifly</h2>
+                    <h2 class="w-title"> Ecommerce Phone-app using React, Styled-Component, Bootstrap, Api and Netifly</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Web Development</span> / <span class="w-date">11 Sep. 2019</span>
                     </div>
@@ -450,7 +455,30 @@
             </a>
           </div>
         </div>
-        
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="img/work-5.jpg" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/work-6.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Dave's blog </h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Web Development</span> / <span class="w-date">19 May. 2017</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
         
       </div>
     </div>
@@ -458,7 +486,7 @@
   <!--/ Section Portfolio End /-->
 
   <!--/ Section Testimonials Star /-->
-  <div class="testimonials paralax-mf bg-image" style="background-image: url(img/overlay-bg.jpg)">
+  <div class="testimonials paralax-mf bg-image" style="background-image: url(img/overlay-testimonial-bg.jpg)">
     <div class="overlay-mf"></div>
     <div class="container">
       <div class="row">
@@ -525,7 +553,7 @@
                   <h6 class="category">Web Development</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="blog-single.html">See comments about Dave's blog</a></h3>
+              <h3 class="card-title"><a href="blog-single.html">Click to view comments about Dave's blog</a></h3>
               <p class="card-description">
                 My name is Tolu and i can tell from experience that Dave provide a firstclass hair-styling 
                 treats to his customers.
@@ -557,9 +585,10 @@
                   <h6 class="category">Web Design</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="blog-single.html">See comments about Dave's blog</a></h3>
+              <h3 class="card-title"><a href="blog-single.html">Click to view comments about Dave's blog</a></h3>
               <p class="card-description">
-               
+               Dave provides unique hair styles, Thats for such, but he sometimes keep customers waiting. 
+               He should hire more assitants.
               </p>
             </div>
             <div class="card-footer">
@@ -586,7 +615,7 @@
                   <h6 class="category">Web Design</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="blog-single.html">See comments  about Dave's blog</a></h3>
+              <h3 class="card-title"><a href="blog-single.html">Click to view comments  about Dave's blog</a></h3>
               <p class="card-description">
                 Ever since i got introduced to Dave by a friend of mine who came to my house one evening looking so cool and unique due from his hair cut,
                 i became a fan of Dave's work.
@@ -611,7 +640,7 @@
   <!--/ Section Blog End /-->
 
   <!--/ Section Contact-Footer Star /-->
-  <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
+  <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-footer-bg.jpg)">
     <div class="overlay-mf"></div>
     <div class="container">
       <div class="row">
@@ -669,7 +698,7 @@
                   </div>
                   <div class="more-info">
                     <p class="lead">
-                      Looking for a position as Front-End Web Developer
+                      Looking for a position as Full Stack Web Developer
                       where i can exercise my skills and experience to prosper with the company
                     </p>
                     <ul class="list-ico">
@@ -678,14 +707,14 @@
                       <li><span class="ion-email"></span> flexwithlado@gmail.com</li>
                     </ul>
                   </div>
-                  <div class="socials">
+                   <div class="socials">
                     <ul>
                       <li><a href=""><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
                       <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
                       <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
                       <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
                     </ul>
-                  </div>
+                  </div> 
                 </div>
               </div>
             </div>
