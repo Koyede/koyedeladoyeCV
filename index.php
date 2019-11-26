@@ -337,14 +337,14 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-1.jpg" data-lightbox="gallery-mf">
+            <a href="https://resrtbeach.netlify.com" >
               <div class="work-img">
                 <img src="img/work-1.png" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">A simple Todo App using Jquery</h2>
+                    <h2 class="w-title">Beach Resort using React, Styled-componetent, Bootstrap, and Netifly</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Web Development</span> / <span class="w-date">18 Aug. 2019</span>
                     </div>
